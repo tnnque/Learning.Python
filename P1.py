@@ -1,4 +1,3 @@
-#n = input()
 import sys
 for n in sys.stdin.readlines():
     i = 0
